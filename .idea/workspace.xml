@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e579cb66-96a1-4d62-8466-414ad58d2b57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lucene_sgw" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Text Work\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1Xz72cuVjg9y8Qe4uiQlb9zsBmd" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.sgwls.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Text Work\IDEA\WorkSpace\lucene_sgw\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UpdateIndex.updateOne">
+    <configuration name="CreateIndex.createProductsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene_sgw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sgwls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sgwls.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.sgwls.test.CreateIndex" />
+      <option name="METHOD_NAME" value="createProductsOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateIndex.testCreateIKProductsAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene_sgw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sgwls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sgwls.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.sgwls.test.CreateIndex" />
+      <option name="METHOD_NAME" value="testCreateIKProductsAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateIndex.testCreateProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene_sgw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sgwls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sgwls.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.sgwls.test.CreateIndex" />
+      <option name="METHOD_NAME" value="testCreateProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteIndex.testDeleteAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene_sgw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sgwls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sgwls.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.sgwls.test.DeleteIndex" />
+      <option name="METHOD_NAME" value="testDeleteAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateIndex.updateOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lucene_sgw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sgwls.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sgwls.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.sgwls.test.UpdateIndex" />
+      <option name="METHOD_NAME" value="updateOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UpdateIndex.updateOne" />
+        <item itemvalue="JUnit.CreateIndex.createProductsOne" />
+        <item itemvalue="JUnit.CreateIndex.testCreateIKProductsAll" />
+        <item itemvalue="JUnit.DeleteIndex.testDeleteAll" />
+        <item itemvalue="JUnit.CreateIndex.testCreateProducts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\acer\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e579cb66-96a1-4d62-8466-414ad58d2b57" name="Default Changelist" comment="" />
+      <created>1582036862493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582036862493</updated>
+      <workItem from="1582036863796" duration="2597000" />
+      <workItem from="1582089459876" duration="12091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1582092609690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582092609690" />
+    <state width="1323" height="316" key="GridCell.Tab.0.bottom" timestamp="1582101580456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="316" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582101580456" />
+    <state width="1323" height="316" key="GridCell.Tab.0.center" timestamp="1582101580455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="316" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582101580455" />
+    <state width="1323" height="316" key="GridCell.Tab.0.left" timestamp="1582101580455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="316" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582101580455" />
+    <state width="1323" height="316" key="GridCell.Tab.0.right" timestamp="1582101580456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="316" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582101580456" />
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1582039462399">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582039462399" />
+    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1582039462399">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582039462399" />
+    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1582039462399">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582039462399" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1582039462399">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582039462399" />
+    <state x="186" y="8" key="SettingsEditor" timestamp="1582036877467">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582036877467" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1582089464127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582089464127" />
+  </component>
+</project>
